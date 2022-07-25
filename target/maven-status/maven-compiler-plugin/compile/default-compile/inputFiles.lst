@@ -1,4 +1,5 @@
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\repository\SkillRepository.java
+C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\AppConfig.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\model\Experiencia.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\PersonaService.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\ProyectoService.java
@@ -8,6 +9,7 @@ C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\IProyectoSe
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\SkillService.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\repository\PersonaRepository.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\repository\ExperienciaRepository.java
+C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\WebSecurityConfig.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\SpringBApplication.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\model\Proyecto.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\repository\IdiomaRepository.java
@@ -17,6 +19,7 @@ C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\Controller\Controll
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\repository\EducacionRepository.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\ISkillService.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\model\Educacion.java
+C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\WebConfig.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\IdiomaService.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\service\IPersonaService.java
 C:\portfolioArgProg\Back2\src\main\java\com\porfolio\SpringB\model\Idioma.java

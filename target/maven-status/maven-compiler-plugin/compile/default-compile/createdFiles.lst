@@ -1,3 +1,4 @@
+com\porfolio\SpringB\AppConfig.class
 com\porfolio\SpringB\repository\IdiomaRepository.class
 com\porfolio\SpringB\service\ISkillService.class
 com\porfolio\SpringB\model\Experiencia.class
@@ -5,6 +6,8 @@ com\porfolio\SpringB\service\SkillService.class
 com\porfolio\SpringB\Controller\Controller.class
 com\porfolio\SpringB\service\IIdiomaService.class
 com\porfolio\SpringB\model\Idioma.class
+com\porfolio\SpringB\WebSecurityConfig.class
+com\porfolio\SpringB\WebConfig.class
 com\porfolio\SpringB\repository\EducacionRepository.class
 com\porfolio\SpringB\model\Educacion.class
 com\porfolio\SpringB\repository\PersonaRepository.class
@@ -15,6 +18,7 @@ com\porfolio\SpringB\repository\SkillRepository.class
 com\porfolio\SpringB\model\Persona.class
 com\porfolio\SpringB\model\Proyecto.class
 com\porfolio\SpringB\service\IPersonaService.class
+.netbeans_automatic_build
 com\porfolio\SpringB\model\Skill.class
 com\porfolio\SpringB\service\IEducacionService.class
 com\porfolio\SpringB\service\PersonaService.class
